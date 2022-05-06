@@ -13,7 +13,7 @@
 <h2 align="left" color="red">Languages and Tools:</h2>
 <img align="left" padding-right="30px" alt="c sharp icon" width="42px" src="/img/c-sharp.png"/>   <img align="left" alt="netcore icon" width="42px" src="/img/net-core.png"/>   <img align="left" alt="sql server icon" width="42px" src="/img/sql-server.png"/>    <img align="left" alt="html icon" width="42px" src="/img/html.png"/>   <img align="left" alt="css3 icon" width="42px" src="/img/css-3.png"/>
 <br>
-
+<hr>
 <br>
 <img align="centre" alt="Hand Gif" width="200px" src="https://media.giphy.com/media/48M4FVK5UeRNglWAyk/giphy-downsized-large.gif"/>
 <br>
