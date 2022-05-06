@@ -3,6 +3,7 @@
 #***I'm Çağrı***  
 
 ##*Connect with me:*
+<br>
 [<img align="centre" alt="linkedin icon" width="42px" src="/img/linkedin.png"/>](https://www.linkedin.com/in/cagrisakar/)    [<img align="centre" alt="instagram icon" width="42px" src="/img/instagram.png"/>](https://www.instagram.com/cagrisakarr/)    [<img align="centre" alt="twitter icon" width="42px" src="/img/twitter.png"/>](https://twitter.com/cagri_sakar)     [<img align="centre" alt="facebook icon" width="42px" src="/img/facebook.png"/>](https://www.facebook.com/cagris.sakar/)     [<img align="centre" alt="mail icon" width="42px" src="/img/email.png"/>](<mailto:cagri.sakar@hotmail.com>)
 
 <img align="centre" alt="code Gif" width="100px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
