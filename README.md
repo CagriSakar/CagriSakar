@@ -11,6 +11,7 @@
 
 <h2 color="red">Languages and Tools:</h2>
 <br>
+[<img align="centre" alt="mail icon" width="42px" src="/img/email.png"/>](mailto:cagri.sakar@hotmail.com)   [<img align="centre" alt="mail icon" width="42px" src="/img/email.png"/>](mailto:cagri.sakar@hotmail.com)
 <p align="centre">
    <img alt="c sharp icon" width="42px" src="/img/c-sharp.png"/>
    <img alt="netcore icon" width="42px" src="/img/net-core.png"/>
