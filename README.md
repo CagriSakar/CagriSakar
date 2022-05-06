@@ -9,8 +9,8 @@
 
 <img align="centre" alt="code Gif" width="100px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
-<h2 align="left" color="red">Languages and Tools:</h2>
-<img align="left" padding-right="30px" alt="c sharp icon" width="42px" src="/img/c-sharp.png"/>   <img align="left" alt="netcore icon" width="42px" src="/img/net-core.png"/>   <img align="left" alt="sql server icon" width="42px" src="/img/sql-server.png"/>    <img align="left" alt="html icon" width="42px" src="/img/html.png"/>   <img align="left" alt="css3 icon" width="42px" src="/img/css-3.png"/>
+<h2 color="red">Languages and Tools:</h2>
+<img padding-right="30px" alt="c sharp icon" width="42px" src="/img/c-sharp.png"/>   <img alt="netcore icon" width="42px" src="/img/net-core.png"/>   <img alt="sql server icon" width="42px" src="/img/sql-server.png"/>    <img alt="html icon" width="42px" src="/img/html.png"/>   <img alt="css3 icon" width="42px" src="/img/css-3.png"/>
 <br>
 <hr>
 
