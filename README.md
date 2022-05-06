@@ -3,7 +3,7 @@
 <h1 align="centre">I'm Çağrı</h1>
 <hr>
 
-<h2 align="centre" color="blue">Connect with me:</h2>
+<h2 align="centre" color="blue">Contact me:</h2>
 
 [<img align="centre" alt="linkedin icon" width="42px" src="/img/linkedin.png"/>](https://www.linkedin.com/in/cagrisakar/)    [<img align="centre" alt="instagram icon" width="42px" src="/img/instagram.png"/>](https://www.instagram.com/cagrisakarr/)    [<img align="centre" alt="twitter icon" width="42px" src="/img/twitter.png"/>](https://twitter.com/cagri_sakar)     [<img align="centre" alt="facebook icon" width="42px" src="/img/facebook.png"/>](https://www.facebook.com/cagris.sakar/)     [<img align="centre" alt="mail icon" width="42px" src="/img/email.png"/>](mailto:cagri.sakar@hotmail.com)
 
@@ -21,8 +21,6 @@
 </p>
 
 <br>
-
-<hr>
 
 <img align="centre" alt="Hand Gif" width="200px" src="https://media.giphy.com/media/48M4FVK5UeRNglWAyk/giphy-downsized-large.gif"/>
 <br>
