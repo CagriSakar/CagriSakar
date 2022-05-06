@@ -11,11 +11,11 @@
 
 <h2 color="red">Languages and Tools:</h2>
 
-<a><img align="left" alt="c sharp icon" width="42px" src="/img/c-sharp.png"/></a>
-<a><img align="left" alt="netcore icon" width="42px" src="/img/net-core.png"/></a>
-<a><img align="left" alt="sql server icon" width="42px" src="/img/sql-server.png"/></a>
-<a><img align="left" alt="html icon" width="42px" src="/img/html.png"/></a>
-<a><img align="left" alt="css3 icon" width="42px" src="/img/css-3.png"/></a>
+<a align="left"><img alt="c sharp icon" width="42px" src="/img/c-sharp.png"/></a>
+<a align="left"><img alt="netcore icon" width="42px" src="/img/net-core.png"/></a>
+<a align="left"><img alt="sql server icon" width="42px" src="/img/sql-server.png"/></a>
+<a align="left"><img alt="html icon" width="42px" src="/img/html.png"/></a>
+<a align="left"><img alt="css3 icon" width="42px" src="/img/css-3.png"/></a>
 
 <br>
 <hr>
