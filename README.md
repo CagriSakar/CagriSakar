@@ -10,7 +10,9 @@
 <img align="centre" alt="code Gif" width="100px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
 <h2 color="red">Languages and Tools:</h2>
-<a><img display="inline" padding-right="30px" alt="c sharp icon" width="42px" src="/img/c-sharp.png"/></a>   <a><img display="inline" alt="netcore icon" width="42px" src="/img/net-core.png"/></a>   <a><img display="inline" alt="sql server icon" width="42px" src="/img/sql-server.png"/>    <a><img display="inline" alt="html icon" width="42px" src="/img/html.png"/></a>   <a><img display="inline" alt="css3 icon" width="42px" src="/img/css-3.png"/></a>
+<p align="left">
+<img display="inline" padding-right="30px" alt="c sharp icon" width="42px" src="/img/c-sharp.png"/>   <img display="inline" alt="netcore icon" width="42px" src="/img/net-core.png"/>   <img display="inline" alt="sql server icon" width="42px" src="/img/sql-server.png"/>    <img display="inline" alt="html icon" width="42px" src="/img/html.png"/>   <img display="inline" alt="css3 icon" width="42px" src="/img/css-3.png"/>
+</p>
 <br>
 <hr>
 
